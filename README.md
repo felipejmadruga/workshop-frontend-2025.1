@@ -18,4 +18,4 @@ Development of a web page using API. I was able to apply here what I have been l
 
 ## 🙌 Obrigado
 
-Gratidão por ter tido a oportunidade de vivenciar essa expêriencia engradecedora dentro do Workshop da Fábrica de Software, onde pude aprender muita coisa nova e colocar em pratica alguns conhecimenos que vim adquirindo ao longo dessa caminhada. 
+Gratidão pela oportunidade de vivenciar essa expêriencia engradecedora dentro do Workshop da Fábrica de Software, onde pude aprender muita coisa nova e colocar em pratica alguns conhecimenos que vim adquirindo ao longo dessa caminhada. 
