@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 aling="center">
+<img src="./public/image/pokemon-logo.png"/>
+<p>Projeto FrontEnd: Fábrica de Software - 2025.1 🐱‍💻👨‍💻💻</p>
+</h1>
 
-## Getting Started
+## 📝 Sobre
 
-First, run the development server:
+Desenvolvimento de uma página web utilizando API. Pude aplicar aqui o que venho aprendendo na faculdade e também nos Workshops da Fábrica de Software.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Development of a web page using API. I was able to apply here what I have been learning at college and also at the Software Factory Workshops.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔨 Ferramentas
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Node
+- React
+- Next.js
+- Tailwind
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🙌 Obrigado
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Gratidão por ter tido a oportunidade de vivenciar essa expêriencia engradecedora dentro do Workshop da Fábrica de Software, onde pude aprender muita coisa nova e colocar em pratica alguns conhecimenos que vim adquirindo ao longo dessa caminhada. 
